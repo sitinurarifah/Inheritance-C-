@@ -1,0 +1,14 @@
+C:\Users\USER\sitnurKGM\GameInheritanceDemo\GameInheritanceDemo\obj\Debug\net10.0\GameInheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\sitnurKGM\GameInheritanceDemo\GameInheritanceDemo\obj\Debug\net10.0\GameInheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\USER\sitnurKGM\GameInheritanceDemo\GameInheritanceDemo\obj\Debug\net10.0\GameInheritanceDemo.AssemblyInfo.cs
+C:\Users\USER\sitnurKGM\GameInheritanceDemo\GameInheritanceDemo\obj\Debug\net10.0\GameInheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\USER\sitnurKGM\GameInheritanceDemo\GameInheritanceDemo\bin\Debug\net10.0\GameInheritanceDemo.exe
+C:\Users\USER\sitnurKGM\GameInheritanceDemo\GameInheritanceDemo\bin\Debug\net10.0\GameInheritanceDemo.deps.json
+C:\Users\USER\sitnurKGM\GameInheritanceDemo\GameInheritanceDemo\bin\Debug\net10.0\GameInheritanceDemo.runtimeconfig.json
+C:\Users\USER\sitnurKGM\GameInheritanceDemo\GameInheritanceDemo\bin\Debug\net10.0\GameInheritanceDemo.dll
+C:\Users\USER\sitnurKGM\GameInheritanceDemo\GameInheritanceDemo\bin\Debug\net10.0\GameInheritanceDemo.pdb
+C:\Users\USER\sitnurKGM\GameInheritanceDemo\GameInheritanceDemo\obj\Debug\net10.0\GameInheritanceDemo.dll
+C:\Users\USER\sitnurKGM\GameInheritanceDemo\GameInheritanceDemo\obj\Debug\net10.0\refint\GameInheritanceDemo.dll
+C:\Users\USER\sitnurKGM\GameInheritanceDemo\GameInheritanceDemo\obj\Debug\net10.0\GameInheritanceDemo.pdb
+C:\Users\USER\sitnurKGM\GameInheritanceDemo\GameInheritanceDemo\obj\Debug\net10.0\GameInheritanceDemo.genruntimeconfig.cache
+C:\Users\USER\sitnurKGM\GameInheritanceDemo\GameInheritanceDemo\obj\Debug\net10.0\ref\GameInheritanceDemo.dll
